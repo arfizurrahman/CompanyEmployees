@@ -1,0 +1,9 @@
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
