@@ -3,3 +3,10 @@ C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\
 C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
 C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
 C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Projects\Asp.net Core\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
