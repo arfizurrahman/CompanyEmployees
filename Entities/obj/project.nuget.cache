@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "X9JfE20DiWglDkH0gz88kEBSkFQNF5HPb1SOxeB/IYis5pMfRNAh5EITinXk95J5GduAYvzXE8SSHMO3mbOJ3w==",
+  "dgSpecHash": "+frY6vzrUJlH/ndNYG8TTy6aQV1dsgIa4uuu9hj8RoUIQvzoJS4ckLtAYkvjAT7Z9xluLqVRQVM+jI9a6/slbw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0\\microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

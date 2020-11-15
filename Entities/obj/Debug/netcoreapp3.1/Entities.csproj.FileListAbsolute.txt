@@ -1,0 +1,5 @@
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs

@@ -27,3 +27,17 @@ C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.dll
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.genruntimeconfig.cache
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.dll
