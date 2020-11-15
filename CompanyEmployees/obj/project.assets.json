@@ -147,6 +147,16 @@
           "bin/placeholder/Contracts.dll": {}
         }
       },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
       "LoggerService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -393,6 +403,11 @@
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
     },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
     "LoggerService/1.0.0": {
       "type": "project",
       "path": "../LoggerService/LoggerService.csproj",
@@ -401,6 +416,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Entities >= 1.0.0",
       "LoggerService >= 1.0.0"
     ]
   },
@@ -430,6 +446,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj"
+            },
             "C:\\Projects\\Asp.net Core\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
               "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
             }
