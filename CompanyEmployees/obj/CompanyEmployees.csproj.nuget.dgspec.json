@@ -27,9 +27,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj"
-              },
               "C:\\Projects\\Asp.net Core\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
@@ -103,7 +100,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -278,9 +279,6 @@
             "projectReferences": {
               "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Contracts\\Contracts.csproj": {
                 "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Contracts\\Contracts.csproj"
-              },
-              "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }

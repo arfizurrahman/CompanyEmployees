@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v3.1": {
       "CompanyEmployees/1.0.0": {
         "dependencies": {
-          "Entities": "1.0.0",
           "LoggerService": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
@@ -1418,6 +1417,9 @@
         }
       },
       "Contracts/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "Contracts.dll": {}
         },
@@ -1451,7 +1453,6 @@
       "Repository/1.0.0": {
         "dependencies": {
           "Contracts": "1.0.0",
-          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0"
         },
         "runtime": {

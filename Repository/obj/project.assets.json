@@ -165,6 +165,9 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
@@ -558,7 +561,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Contracts >= 1.0.0",
-      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0"
     ]
   },
@@ -590,9 +592,6 @@
           "projectReferences": {
             "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Contracts\\Contracts.csproj": {
               "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Contracts\\Contracts.csproj"
-            },
-            "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Entities\\Entities.csproj"
             }
           }
         }

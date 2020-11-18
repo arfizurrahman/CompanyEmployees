@@ -9,7 +9,6 @@
       "Repository/1.0.0": {
         "dependencies": {
           "Contracts": "1.0.0",
-          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0"
         },
         "runtime": {
@@ -156,6 +155,9 @@
         }
       },
       "Contracts/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "Contracts.dll": {}
         }

@@ -57,10 +57,10 @@ C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\LoggerService.dll
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.dll
-C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\LoggerService.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csprojAssemblyReference.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfoInputs.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfo.cs
