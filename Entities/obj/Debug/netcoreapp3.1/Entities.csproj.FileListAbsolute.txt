@@ -6,3 +6,4 @@ C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entit
 C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
