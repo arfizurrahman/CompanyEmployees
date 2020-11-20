@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ATeJ67v05Kw75KAPqetgV5HARAivlM3dorrgDmyYU3tSqX9PYwvEMZFaOaXz3r1vWf1+cuJb7OA9bEnaPI22uQ==",
+  "dgSpecHash": "1ijYJ2yYeB7rXg9xv2IqEYjZnCaAVb0L09+bnGlXsnQa4y4GkTrx1VNXlK4Z0prQbpIXkTztSGhlgIjtLvunsA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.linq.dynamic.core\\1.2.5\\system.linq.dynamic.core.1.2.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
