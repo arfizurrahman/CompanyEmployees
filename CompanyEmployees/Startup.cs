@@ -51,6 +51,7 @@ namespace CompanyEmployees
             services.AddScoped<ValidateEmployeeForCompanyExistsAttribute>();
             services.AddScoped<IDataShaper<EmployeeDto>, DataShaper<EmployeeDto>>();
 
+            services.AddCustomMediaTypes();
             services.AddControllers(config =>
             {
                 config.RespectBrowserAcceptHeader = true;
