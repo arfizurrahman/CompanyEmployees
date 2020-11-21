@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using CompanyEmployees.ActionFilters;
 using CompanyEmployees.Extensions;
+using CompanyEmployees.Utility;
 using Contracts;
 using Entities.DataTransferObjects;
 using Microsoft.AspNetCore.Builder;
@@ -51,8 +52,8 @@ namespace CompanyEmployees
             services.AddScoped<ValidateEmployeeForCompanyExistsAttribute>();
             services.AddScoped<ValidateMediaTypeAttribute>();
             services.AddScoped<IDataShaper<EmployeeDto>, DataShaper<EmployeeDto>>();
+            services.AddScoped<EmployeeLinks>();
 
-            services.AddCustomMediaTypes();
             services.AddControllers(config =>
             {
                 config.RespectBrowserAcceptHeader = true;
@@ -60,6 +61,8 @@ namespace CompanyEmployees
             }).AddNewtonsoftJson()
               .AddXmlDataContractSerializerFormatters()
               .AddCustomCSVFormatter();
+
+            services.AddCustomMediaTypes(); // Should be added after AddControllers
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
