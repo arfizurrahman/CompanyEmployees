@@ -79,9 +79,6 @@ C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csprojAssemblyReference.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfoInputs.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfo.cs
-C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
-C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
-C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.RazorTargetAssemblyInfo.cache
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CopyComplete
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\staticwebassets\CompanyEmployees.StaticWebAssets.Manifest.cache
@@ -89,3 +86,11 @@ C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.dll
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.pdb
 C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.genruntimeconfig.cache
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Asp.net Core\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\CompanyEmployees.xml
