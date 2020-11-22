@@ -74,6 +74,9 @@ namespace CompanyEmployees
             services.AddMemoryCache();
             services.ConfigureRateLimitingOptions();
             services.AddHttpContextAccessor();
+            services.AddAuthentication();
+            services.ConfigureIdentity();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -103,6 +106,7 @@ namespace CompanyEmployees
             app.UseIpRateLimiting();
 
             app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
