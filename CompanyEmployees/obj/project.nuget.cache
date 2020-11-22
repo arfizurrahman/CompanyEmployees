@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N4uiBeXec6a/5V/yfVCmFtZVHR/l0UlXt4iRxNI3/wQbZZIf00J0aCjulWEwOdZk32z0J24eKv/3mCKaCktGzg==",
+  "dgSpecHash": "0yhmp65kM+hACTQ1xTxG+okAe87E4lHEcY8hlKYC/942+6LRauEFb/zrAF1ADhqHVD56oYVnZsDjoEUKWkCXuQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.10\\microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.10\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.2.0\\microsoft.aspnetcore.mvc.versioning.4.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

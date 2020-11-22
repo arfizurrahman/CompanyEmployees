@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CompanyEmployees.Controllers;
 using Contracts;
 using Entities;
 using LoggerService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -70,6 +72,21 @@ namespace CompanyEmployees.Extensions
                         .SupportedMediaTypes.Add("application/vnd.xyz.apiroot+xml");
 
                 }
+            });
+        }
+
+        public static void ConfigureVersioning(this IServiceCollection services)
+        {
+            services.AddApiVersioning(opt =>
+            {
+                opt.ReportApiVersions = true;
+                opt.AssumeDefaultVersionWhenUnspecified = true;
+                opt.DefaultApiVersion = new ApiVersion(1, 0);
+                opt.ApiVersionReader = new HeaderApiVersionReader("api-version");
+                opt.Conventions.Controller<CompaniesController>().HasApiVersion(new ApiVersion(1, 0));
+                opt.Conventions.Controller<CompaniesV2Controller>().HasDeprecatedApiVersion(new
+                    ApiVersion(2, 0));
+
             });
         }
     }
