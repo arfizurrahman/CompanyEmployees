@@ -56,6 +56,8 @@ namespace CompanyEmployees.Extensions
                     newtonsoftJsonOutputFormatter
                         .SupportedMediaTypes
                         .Add("application/vnd.xyz.hateoas+json");
+                    newtonsoftJsonOutputFormatter
+                        .SupportedMediaTypes.Add("application/vnd.xyz.apiroot+json");
                 }
                 var xmlOutputFormatter = config.OutputFormatters
                     .OfType<XmlDataContractSerializerOutputFormatter>()?.FirstOrDefault();
@@ -64,6 +66,9 @@ namespace CompanyEmployees.Extensions
                     xmlOutputFormatter
                         .SupportedMediaTypes
                         .Add("application/vnd.xyz.hateoas+xml");
+                    xmlOutputFormatter
+                        .SupportedMediaTypes.Add("application/vnd.xyz.apiroot+xml");
+
                 }
             });
         }
