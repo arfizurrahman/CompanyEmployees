@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KLnL/x+hYOyu53Q2SbMx0eRCqovQFp1KNQVQcKt8JZB7OeiuT7YkUTId703EfXBwxrZhmnHHlKtLNH7d9XZuAQ==",
+  "dgSpecHash": "69PaRUQI7ZUsxKsCwLbL4jKVLBjr8JBkiicU5ILVyYhKTz+Z1+eW5tn/4EtHj26iVvKSTdZ705KhStsQ1F4xFw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Asp.net Core\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\aspnetcoreratelimit\\3.2.2\\aspnetcoreratelimit.3.2.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -48,7 +49,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nlog\\4.6.4\\nlog.4.6.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nlog.extensions.logging\\1.5.1\\nlog.extensions.logging.1.5.1.nupkg.sha512",

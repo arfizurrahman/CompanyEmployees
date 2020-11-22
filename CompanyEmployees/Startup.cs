@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using AspNetCoreRateLimit;
 using AutoMapper;
 using CompanyEmployees.ActionFilters;
 using CompanyEmployees.Extensions;
@@ -49,7 +50,6 @@ namespace CompanyEmployees
             {
                 options.SuppressModelStateInvalidFilter = true;
             });
-            services.AddHttpContextAccessor();
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<ValidationFilterAttribute>();
             services.AddScoped<ValidateCompanyExistsAttribute>();
@@ -71,6 +71,9 @@ namespace CompanyEmployees
               .AddCustomCSVFormatter();
 
             services.AddCustomMediaTypes(); // Should be added after AddControllers
+            services.AddMemoryCache();
+            services.ConfigureRateLimitingOptions();
+            services.AddHttpContextAccessor();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -97,6 +100,7 @@ namespace CompanyEmployees
             });
             app.UseResponseCaching();
             app.UseHttpCacheHeaders();
+            app.UseIpRateLimiting();
 
             app.UseRouting();
 
