@@ -1,0 +1,14 @@
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Projects\Asp.net Core\CompanyEmployees\Repository\obj\Release\netcoreapp3.1\Repository.pdb
